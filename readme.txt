@@ -1,2 +1,2 @@
 This is a Second git.
-The aim is practicing.
+The aim is practicing for git.
